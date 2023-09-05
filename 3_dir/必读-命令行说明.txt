@@ -1,0 +1,9 @@
+1. 3-5章 FFmpeg命令行说明，可以直接参考网页版本的课件，这里将ppt的文档拷贝整理了一份网页版本的命令，方便大家后续可以查找命令。
+
+https://www.yuque.com/docs/share/eb0b93eb-d7d4-4ee0-a81a-2676d23c476e?# 《FFmpeg最全命令合辑》
+
+2. 对应大部分的测试文件在test-av.rar压缩包
+
+3.之所以要学习FFmpeg命令行，有两大好处：
+(1)加深对ffmpeg的理解，能够更深刻体会ffmpeg能做什么;
+(2)对于后续的FFmpeg api使用也有辅助作用，比如AAC编码需要PCM数据则可以通过ffmpeg命令生成。
